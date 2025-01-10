@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">Welcome to my page!</h3>
+<h5 align="left">Welcome to my page!</h5>
 
 ###
 
-<h2 align="left">About me<br>I'm Mosiur Rahman, Frontend   developer</h2>
+<h5 align="left">I'm Mosiur Rahman, Frontend   developer</h5>
 
 ###
 
