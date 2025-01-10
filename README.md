@@ -1,16 +1,15 @@
-<div align="center">
-  <img height="200" src="https://github.com/mosiur73/mosiur73/blob/main/IMG_20220721_110012.jpg"  />
-</div>
+<h1 align="left">Hey !👋  Nice to see you.</h1>
 
 ###
 
-<h1 align="left">Mosiur Rahman</h1>
+<h3 align="left">Welcome to my page!</h3>
 
 ###
 
-<h3 align="left">Frontend  Developer</h3>
+<h2 align="left">About me<br>I'm Mosiur Rahman, Frontend   developer</h2>
 
 ###
+
 
 <h3 align="left">About me</h3>
 
