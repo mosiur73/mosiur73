@@ -1,22 +1,22 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mosiur73/mosiur73/blob/main/Heading%20Now%2091-98.png)
-<h1 align="left">Hey !👋  Nice to see you.</h1>
+<h1 align="center">Hey !👋  Nice to see you.</h1>
 
 ###
 
-<h5 align="left">Welcome to my page!</h5>
+<h3 align="center">Welcome to my page!</h3>
 
 ###
 
-<h5 align="left">I'm Mosiur Rahman, Frontend   developer</h5>
+<h3 align="center">I'm Mosiur Rahman, Frontend   developer</h3>
 
 ###
 
 
-<h3 align="left">About me</h3>
+<h3 align="center">About me</h3>
 
 ###
 
-<h6 align="left">Hello I am frontend developer from Bangladesh. I make beautiful frontend  web application.</h6>
+<h6 align="center">Hello I am frontend developer from Bangladesh. I make beautiful frontend  web application.</h6>
 
 ###
 
