@@ -24,8 +24,8 @@ I’m passionate about crafting **seamless, user-friendly web applications** wit
 ###
 
 <p align="left">
-  🚀 Exploring **Next.js 14** & **React Server Components**  
-  🔧 Building a **employee management ** using **React.js & Tailwind CSS**   
+  🚀 Exploring **Next.js 14** & **React Server Components**  </br>
+  🔧 Building a **employee management ** using **React.js & Tailwind CSS**   </br>
   💡 I love turning **designs into reality** with clean and efficient code.</br>
   🎯 Always exploring the latest front-end technologies and best practices.</br>
   🌱 Currently improving my skills.
