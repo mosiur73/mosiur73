@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Next js<br>🎯 Goals: Become senior developer from by 2026 <br>🎲 Fun fact: I like sleep</p>
+<p align="center">📚 I'm currently learning Next js<br>🎯 Goals: Become senior developer from by 2026 <br>🎲 Fun fact: I like sleep</p>
 
 ###
 
