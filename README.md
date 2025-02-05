@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">Welcome to my page!</h3>
+<h3 align="center">Welcome to my Github!</h3>
 
 ###
 
