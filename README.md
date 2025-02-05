@@ -68,13 +68,14 @@ I’m passionate about crafting **seamless, user-friendly web applications** wit
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
 </div>
-###
 
+
+
+
+###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mosiur73&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" alt="stats graph"  />
 </div>
-
-###
 
 <div align="center">
   <a href="https://git.io/streak-stats">
