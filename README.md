@@ -71,6 +71,10 @@ I’m passionate about crafting **seamless, user-friendly web applications** wit
 
 ###
 
-
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=mosiur73&theme=dark" alt="GitHub Streak" />
+  </a>
+</div>
 
 ###
