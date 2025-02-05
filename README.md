@@ -16,7 +16,11 @@
 
 ###
 
-<h6 align="center">Hello I am frontend developer  with expertise in JavaScript, React.js, Next.js, Tailwind CSS.Bootstrap. Nowadays, I make beautiful frontend  web application.</h6>
+<h6 align="center">
+  I am a **Front-End Developer** specializing in **JavaScript, React.js, Next.js, and Tailwind CSS**. Currently, I focus on **Next.js** for full-stack applications while also working with **Express.js,Node.js, and MongoDB** on the backend.  
+
+I’m passionate about crafting **seamless, user-friendly web applications** with a keen eye for design and functionality. Every day is a chance to **learn, improve, and build something amazing!** 🚀  
+</h6>
 
 ###
 
