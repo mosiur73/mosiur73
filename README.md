@@ -20,7 +20,11 @@
 
 ###
 
-<p align="center">📚 I'm currently learning Next js<br>🎯 Goals: Become senior developer from by 2026 <br>🎲 Fun fact: I like sleep</p>
+<p align="center">
+  💡 I love turning **designs into reality** with clean and efficient code.</br>
+- 🎯 Always exploring the latest front-end technologies and best practices.</br>
+- 🌱 Currently improving my skills in **performance optimization and animations**.
+</p>
 
 ###
 
