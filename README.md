@@ -23,7 +23,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="center">I code with</h2>
 
 ###
 
@@ -49,11 +49,11 @@
 
 ###
 
-<h2 align="left">Social Links</h2>
+<h2 align="center">Social Links</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://web.facebook.com/mdmosiur.rahman.9484941" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
@@ -61,6 +61,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mosiur73 /mosiur73 /output/snake.svg" alt="Snake animation" />
+
 
 ###
