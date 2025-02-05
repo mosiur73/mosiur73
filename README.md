@@ -1,30 +1,29 @@
 ![I am GitHub Readme Generator's creator](https://github.com/mosiur73/mosiur73/blob/main/Heading%20Now%2091-98.png)
-<h1 align="center">Hey !👋  Nice to see you.</h1>
+<h1 align="left">Hey !👋  Nice to see you.</h1>
 
 ###
 
-<h3 align="center">Welcome to my Github!</h3>
+<h3 align="left">Welcome to my Github!</h3>
 
 ###
 
-<h4 align="center">I'm Mosiur Rahman, Frontend   developer</h4>
+<h4 align="left">I'm Mosiur Rahman, Frontend   developer</h4>
 
 ###
 
 
-<h3 align="center">About me</h3>
+<h3 align="left">About me</h3>
 
 ###
 
-<h6 align="center">
-  I am a **Front-End Developer** specializing in **JavaScript, React.js, Next.js, and Tailwind CSS**. Currently, I focus on **Next.js** for full-stack applications while also working with **Express.js,Node.js, and MongoDB** on the backend.  
-
-I’m passionate about crafting **seamless, user-friendly web applications** with a keen eye for design and functionality. Every day is a chance to **learn, improve, and build something amazing!** 🚀  
+<h6 align="left">
+  I am a **Front-End Developer** specializing in **JavaScript, React.js, Next.js, and Tailwind CSS**. Currently, I focus on **Next.js** </br>
+I’m passionate about crafting **seamless, user-friendly web applications** with a keen eye for design and functionality. </br> Every day is a chance to **learn, improve, and build something amazing!** 🚀  
 </h6>
 
 ###
 
-<p align="center">
+<p align="left">
   💡 I love turning **designs into reality** with clean and efficient code.</br>
 - 🎯 Always exploring the latest front-end technologies and best practices.</br>
 - 🌱 Currently improving my skills in **performance optimization and animations**.
