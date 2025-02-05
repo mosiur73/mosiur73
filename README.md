@@ -16,7 +16,7 @@
 
 ###
 
-<h6 align="center">Hello I am frontend developer from Bangladesh. I make beautiful frontend  web application.</h6>
+<h6 align="center">Hello I am frontend developer  with expertise in JavaScript, React.js, Next.js, Tailwind CSS.Bootstrap. Nowadays, I make beautiful frontend  web application.</h6>
 
 ###
 
